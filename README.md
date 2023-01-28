@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alexandre, but you can call me sova or uranos
+- 👋 Hi, I’m Alexandre, but you can just call me as sova or ale 
 - 👀 I’m interested in Data Science & Artificial Inteligence
 - 🌱 I’m currently learning programing logic
 - 📫 How to reach me ...
