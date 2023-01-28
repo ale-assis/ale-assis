@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @fukurou7
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Alexandre, but you can call me sova or uranos
+- 👀 I’m interested in Data Science & Artificial Inteligence
 - 🌱 I’m currently learning programing logic
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
