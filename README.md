@@ -6,10 +6,6 @@
 Would you like to contact me? Please feel free to send a message:<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandre-assis-707707) 
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=iAlesynxs&icon=0&color=0)](https://visitcount.itsvg.in)
 
