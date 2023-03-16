@@ -1,6 +1,5 @@
 # 💫 About Me:
-           
-Hello there!<br>I’m Alexandre, but you can just call me as Ale. <br>As a novice developer, I'm currently improving my programming skills.<br>My focus area: Data Science & Artificial Inteligence<br>I’m currently learning Python<br>And improving my skills on HTML/CSS and JAVASCRIPT for personal projects.
+𝚋𝚘𝚘𝚕𝚎𝚊𝚗 𝚌𝚘𝚏𝚏𝚎𝚎 = 𝚌𝚘𝚏𝚏𝚎𝚎𝙴𝚖𝚙𝚝𝚢<br>𝚒𝚏(𝚌𝚘𝚏𝚏𝚎𝚎) {<br>    𝚌𝚘𝚏𝚏𝚎𝚎.𝚛𝚎𝚏𝚒𝚕𝚕();<br>} 𝚎𝚕𝚜𝚎 {<br>    𝚌𝚘𝚏𝚏𝚎𝚎.𝚍𝚛𝚒𝚗𝚔(😄☕);<br>             }<br><br>Hello there!<br>I’m Alexandre, but you can just call me as Ale. <br>As a novice developer, I'm currently improving my programming skills.<br>My focus area: Data Science & Artificial Inteligence<br>I’m currently learning Python<br>And improving my skills on HTML/CSS and JAVASCRIPT for personal projects.
 
 
 ## 🌐 Socials:
@@ -14,7 +13,7 @@ Hello there!<br>I’m Alexandre, but you can just call me as Ale. <br>As a novic
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iAlesynxs&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iAlesynxs&icon=0&color=0)](https://visitcount.itsvg.in)
