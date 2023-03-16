@@ -1,11 +1,11 @@
 # 💫 About Me:
 
 𝚋𝚘𝚘𝚕𝚎𝚊𝚗 𝚌𝚘𝚏𝚏𝚎𝚎 = 𝚌𝚘𝚏𝚏𝚎𝚎𝙴𝚖𝚙𝚝𝚢
-𝚒𝚏(𝚌𝚘𝚏𝚏𝚎𝚎) { 
-  𝚌𝚘𝚏𝚏𝚎𝚎.𝚛𝚎𝚏𝚒𝚕𝚕();
+𝚒𝚏(𝚌𝚘𝚏𝚏𝚎𝚎) {
+𝚌𝚘𝚏𝚏𝚎𝚎.𝚛𝚎𝚏𝚒𝚕𝚕();
 } 𝚎𝚕𝚜𝚎 {
-  𝚌𝚘𝚏𝚏𝚎𝚎.𝚍𝚛𝚒𝚗𝚔();            
-  }
+𝚌𝚘𝚏𝚏𝚎𝚎.𝚍𝚛𝚒𝚗𝚔(😄☕);
+}
   
   
 Hello there!<br>I’m Alexandre, but you can just call me as Ale. <br>As a novice developer, I'm currently improving my programming skills.<br>My focus area: Data Science & Artificial Inteligence<br>I’m currently learning Python<br>And improving my skills on HTML/CSS and JAVASCRIPT for personal projects.
