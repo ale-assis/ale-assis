@@ -7,6 +7,10 @@ Would you like to contact me? Please feel free to send a message:<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-assis-707707/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandre7assis@gmail.com)
 
+<a href="https://www.linkedin.com/in/alexandre-assis-707707/" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iAlesynxs&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iAlesynxs&theme=dark&hide_border=false)<br/>
