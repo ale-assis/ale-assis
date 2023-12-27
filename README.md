@@ -10,12 +10,12 @@ For really important issues, please feel free to send a message at:<br>mnemosynx
 <!-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eidos.clouds@gmail.com) -->
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=orcynus&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=orcynus&theme=dark&hide_border=true)<br/>
+<!--![](https://github-readme-stats.vercel.app/api?username=orcynus&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=orcynus&theme=dark&hide_border=true)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=orcynus&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Quotes
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<!--### ✍️ Quotes
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=orcynus&icon=0&color=12)](https://visitcount.itsvg.in)
