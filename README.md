@@ -3,7 +3,7 @@ As a novice developer, I'm currently improving my programming skills.<br>My focu
 
 ```
 𝚒𝚏( 𝚑𝚊𝚛𝚍𝚠𝚘𝚛𝚔()===𝚝𝚛𝚞𝚎) {
-𝚜𝚞𝚌𝚎𝚜𝚜(); 
+𝚜𝚞𝚌𝚌𝚎𝚜𝚜(); 
 } 𝚎𝚕𝚜𝚎 { 𝚜𝚝𝚊𝚐𝚗𝚊𝚝𝚎(); }
 ``` 
 
