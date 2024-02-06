@@ -1,5 +1,10 @@
 # 👋 Hi. Welcome to my profile!
-𝚋𝚘𝚘𝚕𝚎𝚊𝚗 𝚌𝚘𝚏𝚏𝚎𝚎 = 𝚌𝚘𝚏𝚏𝚎𝚎𝙴𝚖𝚙𝚝𝚢<br>𝚒𝚏(𝚌𝚘𝚏𝚏𝚎𝚎) {<br>𝚌𝚘𝚏𝚏𝚎𝚎.𝚛𝚎𝚏𝚒𝚕𝚕();<br>} 𝚎𝚕𝚜𝚎 {<br>𝚌𝚘𝚏𝚏𝚎𝚎.𝚍𝚛𝚒𝚗𝚔(😄☕);<br>}<br><br>As a novice developer, I'm currently improving my programming skills.<br>My focus area: Data Science & Artificial Inteligence<br>I’m currently learning Python<br>And improving my skills on HTML/CSS and JAVASCRIPT for personal projects.
+//it's up to you<br>  
+if(hardwork()===true {  
+sucess();  
+} else {struggle();}  
+
+As a novice developer, I'm currently improving my programming skills.<br>My focus area: Data Science & Artificial Inteligence<br>I’m currently learning Python<br>And improving my skills on HTML/CSS and JAVASCRIPT for personal projects.
 
 
 ## 💻 Tech Stack:
