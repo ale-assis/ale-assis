@@ -17,11 +17,11 @@ For really important issues, please feel free to send a message at:<br>mnemosynx
 ## 📊 GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=orcynus&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=orcynus&theme=dark&hide_border=true)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sova-xd&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aleeidos&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!--### ✍️ Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 
-[![](https://visitcount.itsvg.in/api?id=orcynus&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=aleeidos&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
