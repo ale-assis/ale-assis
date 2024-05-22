@@ -15,7 +15,7 @@ As a novice developer, I'm currently improving my programming skills.<br>My focu
 ## 📊 GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=orcynus&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=orcynus&theme=dark&hide_border=true)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aleeidos&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ale-assis&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=aleeidos&theme=holi-theme&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)-->
 
