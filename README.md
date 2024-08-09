@@ -23,6 +23,6 @@ As a novice developer, I'm currently improving my programming skills.<br>My focu
 <!--### ✍️ Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 
-[![](https://visitcount.itsvg.in/api?id=aleeidos&icon=0&color=12)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=aleeidos&icon=0&color=12)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
