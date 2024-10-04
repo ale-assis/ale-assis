@@ -4,15 +4,14 @@
 <br>
 <br>
 <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=65EDF7&center=true&vCenter=true&width=435&lines=Hi!+I'm+Alexandre+Assis;Data+Scientist)](https://git.io/typing-svg)
-<br>
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0062F7&center=true&vCenter=true&width=435&lines=Hi!+Be+welcome!;I'm+Alexandre+Assis;Python+Dev...;and+Data+Scientist)](https://git.io/typing-svg)
 <br>
 <a href="https://www.linkedin.com/in/alexandre-assis-/" target="_blank">
 <img align="center" height="84" width="84" src="https://github.com/user-attachments/assets/9b73deda-4280-4fe1-9264-424d7f2015b9">
 </a>
 <a href="alexandre7assis@gmail.com" target="_blank">
-<img align="center" height="84" width="84" src="https://github.com/user-attachments/assets/a0075aed-0e8a-4e29-80f0-d550f3f87c7b">
+<img align="center" height="106" width="106" src="https://github.com/user-attachments/assets/a0075aed-0e8a-4e29-80f0-d550f3f87c7b"><br>
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/ale-assis?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&weeks=30&theme=blue)
 </div>
 
 ### 💻 Skills
@@ -44,6 +43,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ale-assis&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ale-assis&theme=holi-theme&exclude_days=Sun%2CSat)](https://git.io/streak-stats) <br>
 <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fale-assis&s=50&c=0062ff&bg=00000000&no=2&ff=digi&tb=Visits%3A+&ta=" alt="visits"> <br>
-
 </div>
-
+<img width=100% src="https://github.com/user-attachments/assets/057f1a01-563a-45fb-bfbb-949a39ba1521"/>
