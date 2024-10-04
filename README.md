@@ -34,7 +34,7 @@
 
 
 ### Contact
-<div align="left">
+<div align="center">
 <a href="https://www.linkedin.com/in/alexandre-assis-/" target="_blank">
 <img align="center" height="84" width="84" src="https://github.com/user-attachments/assets/9b73deda-4280-4fe1-9264-424d7f2015b9">
 </a>
