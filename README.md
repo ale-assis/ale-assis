@@ -7,10 +7,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0062F7&center=true&vCenter=true&width=435&lines=Hi!+Be+welcome!;I'm+Alexandre+Assis;Python+Dev...;and+Data+Scientist)](https://git.io/typing-svg)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ale-assis&theme=holi-theme&exclude_days=Sun%2CSat&card_width=750&card_height=202)](https://git.io/streak-stats)
 <br>
-<a href="https://www.linkedin.com/in/alexandre-assis-/" target="_blank">
+<a href="" target="_blank">
 <img align="center" height="84" width="84" src="https://github.com/user-attachments/assets/9b73deda-4280-4fe1-9264-424d7f2015b9">
 </a>
-<a href="alexandre7assis@gmail.com" target="_blank">
+<a href="" target="_blank">
 <img align="center" height="106" width="106" src="https://github.com/user-attachments/assets/a0075aed-0e8a-4e29-80f0-d550f3f87c7b"><br>
 </div>
 
