@@ -9,12 +9,14 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ale-assis&theme=holi-theme&exclude_days=Sun%2CSat&card_width=750&card_height=202)](https://git.io/streak-stats)
 <br>
 
+<!-- ÍCONES DE REDES SOCIAIS E CONTATO
 <a href="" target="_blank">
 <img align="center" height="84" width="84" src="https://github.com/user-attachments/assets/9b73deda-4280-4fe1-9264-424d7f2015b9">
 </a>
 <a href="" target="_blank">
 <img align="center" height="106" width="106" src="https://github.com/user-attachments/assets/a0075aed-0e8a-4e29-80f0-d550f3f87c7b">
 </a><br>
+-->
 </div>
 
 <div align="center">
