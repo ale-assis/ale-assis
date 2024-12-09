@@ -6,7 +6,7 @@
 <br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=184CF7&width=435&lines=Hi!+Be+welcome!+I'm+Alexandre!;Backend+Developer+and+Data+Scientist.)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ale-assis&theme=holi-theme&exclude_days=Sun%2CSat&card_width=750&card_height=202)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alezoka&theme=holi-theme&exclude_days=Sun%2CSat&card_width=750&card_height=202)](https://git.io/streak-stats)
 <br>
 
 <!-- ÍCONES DE REDES SOCIAIS E CONTATO
