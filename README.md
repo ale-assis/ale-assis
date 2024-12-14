@@ -51,7 +51,7 @@
 ### 📊 Stats
 <div align="center">
  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ale-assis&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) <br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alezoka&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) <br>
 <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fale-assis&s=50&c=0062ff&bg=00000000&no=2&ff=digi&tb=Visits%3A+&ta=" alt="visits"> <br>
 </div>
 <img width=100% src="https://github.com/user-attachments/assets/057f1a01-563a-45fb-bfbb-949a39ba1521"/>
