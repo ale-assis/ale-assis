@@ -4,7 +4,7 @@
 <br>
 <br>
 <br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=184CF7&width=435&lines=Hi!+Be+welcome!+I'm+Alexandre!;Backend+Developer+and+Data+Scientist.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=696EF7&center=true&width=435&lines=Focusing+on...;Data+Science+%26+AI+Engineering.)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ale-assis&theme=holi-theme)](https://git.io/streak-stats)
 <br>
