@@ -6,7 +6,7 @@
 <br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=184CF7&width=435&lines=Hi!+Be+welcome!+I'm+Alexandre!;Backend+Developer+and+Data+Scientist.)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=alezoka&theme=holi-theme)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ale-assis&theme=holi-theme)](https://git.io/streak-stats)
 <br>
 
 <!-- ÍCONES DE REDES SOCIAIS E CONTATO
@@ -21,7 +21,7 @@
 
 <div align="center">
  
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/alezoka?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue)
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/ale-assis?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue)
 
 </div>
 
@@ -51,7 +51,7 @@
 ### 📊 Stats
 <div align="center">
  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alezoka&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) <br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ale-assis&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) <br>
 <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fale-assis&s=50&c=0062ff&bg=00000000&no=2&ff=digi&tb=Visits%3A+&ta=" alt="visits"> <br>
 </div>
 <img width=100% src="https://github.com/user-attachments/assets/057f1a01-563a-45fb-bfbb-949a39ba1521"/>
