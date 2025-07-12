@@ -6,7 +6,7 @@
 <br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=696EF7&center=true&width=435&lines=Focusing+on...;Data+Science+%26+AI+Engineering.)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ale-assis&theme=holi-theme)](https://git.io/streak-stats)
+[![ale-assis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ale-assis&show_icons=true&theme=algolia)](https://github.com/ale-assis/github-readme-stats)
 <br>
 
 <!-- ÍCONES DE REDES SOCIAIS E CONTATO
