@@ -5,8 +5,8 @@
 <br>
 <br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=696EF7&center=true&width=435&lines=Focusing+on...;Data+Science+%26+AI+Engineering.)](https://git.io/typing-svg)
+<!--[![ale-assis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ale-assis&show_icons=true&theme=algolia)](https://github.com/ale-assis/github-readme-stats)-->
 
-[![ale-assis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ale-assis&show_icons=true&theme=algolia)](https://github.com/ale-assis/github-readme-stats)
 <br>
 
 <!-- ÍCONES DE REDES SOCIAIS E CONTATO
@@ -17,12 +17,6 @@
 <img align="center" height="106" width="106" src="https://github.com/user-attachments/assets/a0075aed-0e8a-4e29-80f0-d550f3f87c7b">
 </a><br>
 -->
-</div>
-
-<div align="center">
- 
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/ale-assis?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue)
-
 </div>
 
 ### 💻 Skills
@@ -49,9 +43,16 @@
 <br>
 
 ### 📊 Stats
+
 <div align="center">
  
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/ale-assis?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue)
+
+</div>
+
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ale-assis&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) <br>
-<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fale-assis&s=50&c=0062ff&bg=00000000&no=2&ff=digi&tb=Visits%3A+&ta=" alt="visits"> <br>
+<!--<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fale-assis&s=50&c=0062ff&bg=00000000&no=2&ff=digi&tb=Visits%3A+&ta=" alt="visits"> <br>-->
 </div>
 <img width=100% src="https://github.com/user-attachments/assets/057f1a01-563a-45fb-bfbb-949a39ba1521"/>
