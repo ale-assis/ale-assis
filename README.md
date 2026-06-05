@@ -4,7 +4,7 @@
 <br>
 <br>
 <br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=17AFFF&center=true&width=435&lines=%F0%9F%8C%90+Data+Engineering+%26+AI+%F0%9F%8C%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ACCF7%F0%9F%8C%90&center=true&width=435&lines=%F0%9F%8C%90+Data+Science+%26+Engineering+%F0%9F%8C%90)](https://git.io/typing-svg)
 <!--[![ale-assis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ale-assis&show_icons=true&theme=algolia)](https://github.com/ale-assis/github-readme-stats)-->
 
 <br>
